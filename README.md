@@ -1,4 +1,4 @@
-# Sandstorm Server Manager (Windows Only)
+# Sandstorm Server Manager (Windows 10 Only)
 
 Manage multiple servers without the need for Virtual Machines
 
